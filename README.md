@@ -1,4 +1,4 @@
-# Pedemeter using microcontroler FRDM-KL05Z  
+# Pedometer using microcontroler FRDM-KL05Z  
  Pedometer allows us to easily count steps. The display shows the total number of steps taken and the number of steps per minute. Since we are somewhat limited by a short USB cable, we need to simulate each step to ensure it is registered. To do this, we have to lift our board, equipped with an accelerometer, upwards, and then shake it downwards.
  It counts your total steps and also steps per min. 
   
